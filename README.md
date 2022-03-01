@@ -4,10 +4,11 @@ It is in interactive desktop based application, created using Python and Postgre
 
 ## Release 3 features:
    
-   1. Secured Login: Now Password stored in database in a hashed form, provides more security.
-   2. Robust Login:  Now login count is stored in the database. So someone must have to wait till 2 minutes for wrong credentials. Closing the program and relogin is not an option anymore.
-   3. Primary Key Integration: Now User table also has primary key.
-   4. Some minor logic enhancement.
+   1. Primary Key Integration: Now User table has primary key.
+   2. Secured Login:           Now Password stored in database in a hashed form, provides more security.
+   3. Robust Login:            Now login count is stored in the database. So someone must have to wait till 2 minutes for wrong credentials. Closing the program and relogin is not an option anymore.
+   5. Timer Display:           Waiting Time for incorrect attempt is display on screen.
+   6. Some minor logic enhancement.
 
 ## Release 2 features:
    
