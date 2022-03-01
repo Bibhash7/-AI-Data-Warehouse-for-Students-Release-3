@@ -1,6 +1,6 @@
 # AI-Data-Warehouse-for-Students-Release-3
 
-It is in interactive desktop based application, created using Python and PostgreSQL, OpenCV and Tesseract for text extraction,Speech_recognition for voice login.
+It is in interactive desktop based application, created using Python and PostgreSQL, OpenCV and Tesseract for text extraction, Speech_recognition for voice login.
 
 ## Release 3 features:
    
