@@ -4,7 +4,7 @@ It is in interactive desktop based application, created using Python and Postgre
 
 ## Release 3 features:
    
-   1. Secured Login: Now Password stored in database in a hashed form.
+   1. Secured Login: Now Password stored in database in a hashed form, provides more security.
    2. Robust Login:  Now login count is stored in the database. So someone must have to wait till 2 minutes for wrong credentials. Closing the program and relogin is not an option anymore.
    3. Primary Key Integration: Now User table also has primary key.
    4. Some minor logic enhancement.
